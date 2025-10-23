@@ -43,6 +43,8 @@ Currently building hands-on experience through TryHackMe, Blue Team Labs, and pr
 - 🧩 Advancing SOC & Blue Team skills on **TryHackMe**
 - 🔍 Practicing **log analysis** and **incident response**
 - ☁️ Learning **cloud security fundamentals** (AWS & Azure)
+- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/abe.tsega.png)
+
 
 ---
 
