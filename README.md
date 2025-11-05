@@ -2,7 +2,7 @@
 
 💻 **Cybersecurity Analyst | SOC | Incident Response | Threat Detection**  
 🎓 B.S. Information Technology | Google Cybersecurity Certificate | ISC2 CC Certified  
-📫 [LinkedIn](https://www.linkedin.com/in/tsega-abebe) · [Email](mailto:abe.tsega@gmail.com)
+📫 [LinkedIn](www.linkedin.com/in/tsega-abebe-29500496) · [Email](mailto:abe.tsega@gmail.com)
 
 ---
 
