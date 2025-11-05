@@ -36,8 +36,7 @@ Implements secure authentication with biometric templates and multi-factor login
 ---
 
 ## 🚀 Certifications
-- ISC2 **Certified in Cybersecurity (CC)**  
-- **Google Cybersecurity Certificate** (in progress/completed)
+- **Google Cybersecurity Certificate** 
 
 ---
 
