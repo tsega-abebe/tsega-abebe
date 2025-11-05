@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Tsega Abebe
 
 💻 **Cybersecurity Analyst | SOC | Incident Response | Threat Detection**  
-🎓 B.S. Information Technology | Google Cybersecurity Certificate | ISC2 CC Certified  
-📫 [LinkedIn](www.linkedin.com/in/tsega-abebe-29500496) · [Email](mailto:abe.tsega@gmail.com)
+🎓 B.S. Information Technology | Google Cybersecurity Certificate  
+📫 [LinkedIn](https://www.linkedin.com/in/tsega-abebe-29500496) · [Email](mailto:abe.tsega@gmail.com)
 
 ---
 
